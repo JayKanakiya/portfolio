@@ -1,6 +1,6 @@
 # main text of home
 name: Jay Kanakiya
-bio: Learning Things
+bio: 'Learning Things'
 
 # twitter summary info
 description: Personal Website
@@ -38,7 +38,7 @@ github: JayKanakiya
 # medium: medium
 email: jaymkanakiya@gmail.com
 authors:
-    JayKanakiya:
+    Jay Kanakiya:
         name: Jay Kanakiya
         bio: Learning Things.
         external-image: false
@@ -56,9 +56,9 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
- projects: true
-research: false
-teaching: false
+projects: true
+#research: false
+#teaching: false
 # if you don't need about or blog, comment them out below
 about: true
 #blog: flase
@@ -76,7 +76,7 @@ about: true
 #blog-nav-links: true
 
 # show author block at the end of a post ?
-show-author: true
+#show-author: true
 
 # do you want some animations?
 animation: true
