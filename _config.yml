@@ -10,9 +10,6 @@ description: Personal Website
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-resume: true
-resume-external: true
-resume-url: https://jaykanakiya.me/resume.pdf
 
 #url: http://jaykanakiya.me
 # your url: http://USERNAME.github.io
