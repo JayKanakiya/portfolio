@@ -3,8 +3,6 @@ title: Projects
 layout: page
 ---
 
-## Projects
-
 ### Gistly
 Gistly condenses a clip of longer duration to a summarized clip of shorter duration.
 
