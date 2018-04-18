@@ -10,7 +10,11 @@ description: Personal Webiste
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-# url: http://artiannaswamy.com
+resume: true
+resume-external: true
+resume-url: https://jaykanakiya.me/resume.pdf
+
+ url: http://jaykanakiya.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -55,7 +59,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
+ projects: true
 research: false
 teaching: false
 # if you don't need about or blog, comment them out below
