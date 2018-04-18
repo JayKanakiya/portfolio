@@ -12,9 +12,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+
 
 #url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
@@ -70,10 +68,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+
 
 # if you don't need "about" or "blog", comment them out below
 about: true
+projects: true
 #blog: true
 
 # do you want to show the "read time" of the posts?
@@ -100,6 +99,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
 
-jekyll-mentions:
-    base_url: https://github.com
