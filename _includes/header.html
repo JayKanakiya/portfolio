@@ -1,11 +1,9 @@
 {% if page.title == "Home"%}{% assign showHeader = true %}{% endif %}
 
-{% if page.title == "Blog" 
-	or page.title == "Research" 
-	or page.title == "About" 
-	or page.title == "Teaching" 
-   	or page.title == "Projects"
+{% if page.title == "About" 
+	or page.title == "Projects" 
 %}{% assign showMinHeader = true %}{% endif %}
+
 
 {% for post in site.posts %}	
 	{% for tag in post.tags %}
