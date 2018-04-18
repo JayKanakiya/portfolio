@@ -3,7 +3,7 @@ name: Jay Kanakiya
 bio: Learning Things
 
 # twitter summary info
-description: Personal Webiste
+description: Personal Website
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,7 +14,7 @@ resume: true
 resume-external: true
 resume-url: https://jaykanakiya.me/resume.pdf
 
-url: http://jaykanakiya.me
+#url: http://jaykanakiya.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
