@@ -10,4 +10,4 @@ I consider watching movies, swimming, playing table tennis as my pastimes.
 
 Email me for any opportunities in the fields of my interest.
 
-[Resume](/assets/images/resume.pdf)
+[Resume](jaykanakiya.pdf)
