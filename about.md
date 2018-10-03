@@ -8,6 +8,6 @@ I am Jay, an undergraduate student studying Information Technology in K.J Somaiy
 
 I consider watching movies, swimming, playing table tennis as my pastimes.
 
-Email me for any opportunities in the fields of my interest.
+Email me for any opportunities in field of my interest.
 
 [Resume](jaykanakiya.pdf)
